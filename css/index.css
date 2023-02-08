@@ -1,0 +1,20 @@
+
+.albums .card:active {
+    outline: 2px solid black;
+}
+
+.albums .card:hover {
+    outline: 2px solid red;
+}
+
+header .nav-link:hover, header .nav-link:focus {
+    color: black;
+}
+
+header .nav-link:active {
+    color: blue;
+}
+
+.albums a {
+    color: gray;
+}
